@@ -1,7 +1,5 @@
 function conversorDistancia(quilometros){
     let milhas = quilometros * 0.62137;
-    return milhas;
-
-    //ELABORAR MAIS COISAS - ENTRADA DE USUARIO - EXECUCAO TOTAL 
+    return milhas.toFixed(2);
 }
-console.log(conversorDistancia(5)); 
+exports.conversorDistancia = conversorDistancia;
