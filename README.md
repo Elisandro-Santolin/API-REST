@@ -12,7 +12,7 @@
 
 ## Installation
 
-DEVMEDIA requires [Node.js](https://nodejs.org/) v10+ to run.
+DEVMEDIA requires [Node.js](https://nodejs.org/) v10+ and [Framework Express](https://expressjs.com/) v4.18+ to run.
 # License
 MIT
 
