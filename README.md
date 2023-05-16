@@ -5,7 +5,7 @@
 
 > 
 > 
-> repository API-REST models.
+> Repository API-REST models. Project without front end implementation.
 
 
 
