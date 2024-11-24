@@ -105,3 +105,6 @@ dist
 
 # Delete .DS_Store
 .DS_Store
+
+# node.js directories
+node_modules
